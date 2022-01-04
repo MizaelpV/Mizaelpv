@@ -1,7 +1,7 @@
 ### Hi there and welcome to my profile 🖖🏽😊
 
 
-- 🔭 I’m currently working on JavaScript (React, Angular, Vue) 
+- 🔭 I’m currently working on JavaScript (React, Vue, React Native, NativeScript) 
 - 🌱 I’m currently learning  Vue - Advaced React - GraphQL
 - 🖖🏽 I’m looking to collaborate on VR/AR technologies
 - 🤔 I’m looking for help with Advanced React 
