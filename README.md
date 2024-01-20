@@ -1,4 +1,4 @@
-### Hi there and welcome to my profile 🖖🏽😊
+### Hi there and welcome to my profile 🖖🏽
 
 
 - 🔭 I’m currently working on JavaScript (React, React Native, Vue, Node, Express) 
